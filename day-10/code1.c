@@ -1,5 +1,4 @@
-/*
-Write a program to Print star pyramid. 
+/*Write a program to Print star pyramid. 
     * 
    *** 
   ***** 
